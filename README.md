@@ -4,7 +4,8 @@ Welcome to **VLSI Vault** – a curated collection of digital and analog VLSI de
 
 This repository is ideal for students, enthusiasts, or engineers who want a reference or starting point for practicing and building integrated circuit design.
 
-
+## 🔧 Tools Used
+   Dsch2-For design of circuits
 
 
 
@@ -14,5 +15,16 @@ This repository is ideal for students, enthusiasts, or engineers who want a refe
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/ganesha2456/VLSI-Vault.git 
    cd VLSI-Vault
+
+
+
+🙌 Contributing
+Pull requests are welcome! If you have suggestions for new designs, improvements, or fixes, feel free to contribute.
+
+
+📫 Contact
+For questions or collaboration ideas:
+
+✉️ abhiseklipun2004@gmil.com
